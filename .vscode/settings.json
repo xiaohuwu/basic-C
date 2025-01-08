@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "variant": "c",
+        "sstream": "c",
+        "stdio.h": "c"
+    }
+}
